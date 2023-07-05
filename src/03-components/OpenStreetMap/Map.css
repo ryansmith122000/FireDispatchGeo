@@ -1,12 +1,12 @@
 .map-container
 {
-    position: relative;
-    display: flex;
-    align-items: center;
-    width: 50%;
-    height: 100vh;
-    z-index: 1;
-    cursor: pointer;
+    position: relative !important;
+    display: flex !important;
+    align-items: center !important;
+    width: 100vh !important;
+    height: 85vh !important;
+    z-index: 1 !important;
+    cursor: pointer !important;
 
 
 }
